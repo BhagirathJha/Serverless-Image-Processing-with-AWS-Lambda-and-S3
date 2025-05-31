@@ -16,7 +16,7 @@ pip install pillow
 ## Infrastructure
 
 <p align="center">
-  <img src="https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3/blob/main/Untitled%20Diagram.png" height="80" width="160">
+  <img src="https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3/blob/main/Untitled%20Diagram.png" height="180" width="1360">
 </p>
 
 ## Contributing
@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[Bhagirath Jha](https://choosealicense.com/licenses/mit/)
+[Bhagirath Jha](https://github.com/BhagirathJha)
