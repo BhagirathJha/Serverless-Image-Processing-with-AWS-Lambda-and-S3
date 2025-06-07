@@ -42,8 +42,8 @@ This project is an automated image resizing pipeline using AWS services. It util
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3/tree/main
-   cd image-resizer-aws
+   git clone https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3.git
+   cd Serverless-Image-Processing-with-AWS-Lambda-and-S3
    ```
   
 ## Infrastructure
