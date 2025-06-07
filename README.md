@@ -46,7 +46,7 @@ pip install pillow
 ## Infrastructure
 
 <p align="center">
-  <img src="https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3/blob/main/Untitled%20Diagram.png" height="210" width="1360">
+  <img src="https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3/blob/main/S3_Lambda.png" height="210" width="1360">
 </p>
 
 ## 📁 Components
