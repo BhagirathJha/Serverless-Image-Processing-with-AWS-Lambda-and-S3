@@ -1,7 +1,7 @@
 
 # Image Resizer with AWS Lambda & S3 Buckets
 
-This project is an automated image resizing pipeline using AWS services. It utilizes **S3 Buckets**, **AWS Lambda**, and **Terraform (HCL)** for infrastructure as code. The pipeline is designed to automatically resize uploaded images and store the resized versions separately.
+This project is an automated image resizing using AWS services. It utilizes **S3 Buckets**, **AWS Lambda**, and **Terraform (HCL)** for infrastructure as code. The architecture is designed to automatically resize uploaded images and store the resized versions separately.
 
 ---
 
