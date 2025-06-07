@@ -1,3 +1,4 @@
+
 # Image Resizer with AWS Lambda & S3 Buckets
 
 This project is an automated image resizing pipeline using AWS services. It utilizes **S3 Buckets**, **AWS Lambda**, and **Terraform (HCL)** for infrastructure as code. The pipeline is designed to automatically resize uploaded images and store the resized versions separately.
@@ -12,6 +13,14 @@ This project is an automated image resizing pipeline using AWS services. It util
 - **Git** – Version control system
 
 ---
+
+## Dependency
+
+Dependency of python package for resize_image.py file is [pillow](https://pypi.org/project/pillow/) you need to install.
+
+```bash
+pip install pillow
+```
 
 ## 📐 Architecture Overview
 
@@ -45,7 +54,8 @@ This project is an automated image resizing pipeline using AWS services. It util
    git clone https://github.com/BhagirathJha/Serverless-Image-Processing-with-AWS-Lambda-and-S3.git
    cd Serverless-Image-Processing-with-AWS-Lambda-and-S3
    ```
-  
+
+
 ## Infrastructure
 
 <p align="center">
